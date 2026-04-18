@@ -1,3 +1,5 @@
+
+<img width="994" height="509" alt="Screenshot 2026-04-18 at 22 01 02" src="https://github.com/user-attachments/assets/637d881e-e466-42b9-9818-877dc216f988" />
 # Financial Market Behaviour Analysis
 
 ## Overview
