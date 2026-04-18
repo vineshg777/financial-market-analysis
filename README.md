@@ -1,5 +1,4 @@
 
-<img width="994" height="509" alt="Screenshot 2026-04-18 at 22 01 02" src="https://github.com/user-attachments/assets/637d881e-e466-42b9-9818-877dc216f988" />
 # Financial Market Behaviour Analysis
 
 ## Overview
@@ -46,3 +45,9 @@ The goal is to understand whether financial markets behave consistently over tim
 ## Next Steps
 
 This project forms the foundation for future work on detecting hidden market regimes using statistical and machine learning models.
+
+---
+
+## Screenshot of Volatility Chart
+<img width="1031" height="489" alt="Screenshot 2026-04-18 at 22 02 21" src="https://github.com/user-attachments/assets/33e577fa-41bb-4b44-863c-a6f668930494" />
+
